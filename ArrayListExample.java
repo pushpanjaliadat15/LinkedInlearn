@@ -1,7 +1,7 @@
 package Practice;
 
 import java.util.ArrayList;
-
+// Adding comments demo of files modified after commit
 public class ArrayListExample {
 
 	public static void main(String[] args) {
